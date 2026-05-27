@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 🔥 ESP8266 PC Hardware Monitor
 
 
@@ -168,20 +169,6 @@ pip install -r requirements.txt
 
 
 
-\- `new.py` → Python PC monitoring script
-
-\- `esp8266\_monitor.ino` → ESP8266 OLED code
-
-\- `requirements.txt` → Python dependencies
-
-\- `README.md` → Project documentation
-
-
-
-\---
-
-
-
 \# ⚡ How It Works
 
 
@@ -234,3 +221,6 @@ GitHub:
 
 https://github.com/Rishanredddy23
 
+=======
+# ESP8266-PC-Hardware-Monitor
+>>>>>>> 6b496945d32d93bf4fb15fed6501baf031b3b390
