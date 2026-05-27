@@ -1,0 +1,15 @@
+# =========================================
+# ESP8266 PC Hardware Monitor Requirements
+# =========================================
+
+# System monitoring
+psutil>=7.0.0
+
+# Serial communication with ESP8266
+pyserial>=3.5
+
+# Windows WMI access
+wmi>=1.5.1
+
+# Required for WMI support
+pywin32>=311
